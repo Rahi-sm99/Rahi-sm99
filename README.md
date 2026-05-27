@@ -61,12 +61,6 @@
 
 ---
 
-### 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rahi-sm99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
 ---
 
 ## 🏆 Achievements
