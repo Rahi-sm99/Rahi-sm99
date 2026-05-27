@@ -56,15 +56,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahi-sm99&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
   <img height="160" src="https://streak-stats.demolab.com?user=Rahi-sm99&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide=&username=Rahi-sm99&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi-sm99&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://leetcard.jacoblin.cool/Rahi-sm99?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 </div>
 
 <br/>
+
+### 🔝 Top Contributed Repos
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Rahi-sm99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
