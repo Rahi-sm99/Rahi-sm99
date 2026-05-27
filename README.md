@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+🚀;Flutter+%26+React+Specialist+⚛️;IoT+Engineer+in+the+Making+🌐;Hackathon+Winner+🏆;Oracle+Cloud+AI+Certified+☁️;Building+impactful+products+💡" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Flutter+%26+React+Specialist+%E2%9A%9B%EF%B8%8F;IoT+Engineer+in+the+Making+%F0%9F%8C%90;Hackathon+Winner+%F0%9F%8F%86;Oracle+Cloud+AI+Certified+%E2%98%81%EF%B8%8F;Building+impactful+products+%F0%9F%92%A1)](https://git.io/typing-svg)
 
 <h1>Hi, I'm Spandan Mondal 👋</h1>
 <p><b>B.Tech CSE (IoT)</b> @ Techno Main Salt Lake, Kolkata • Full-Stack Developer • Hackathon Winner</p>
@@ -58,18 +56,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahi-sm99&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="165" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rahi-sm99&theme=github-dark-blue&hide_border=true" height="165" alt="Streak Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Rahi-sm99&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Rahi-sm99&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi-sm99&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahi-sm99&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Rahi-sm99&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Rahi-sm99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
